@@ -3,7 +3,7 @@ Predicting forest cover type from cartographic variables only (no remotely sense
 
 # about the dataset and features:
 
-There are 14 continous and 40 (cover types) binary categorical features. 
+There are 14 continuous and 40 (cover types) binary categorical features. 
 
 # Approach used:
 
